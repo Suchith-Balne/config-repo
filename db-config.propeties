@@ -1,0 +1,4 @@
+spring.datasource.suchith=jdbc:mysql://localhost:3306/suchith
+spring.datasource.username=root
+spring.datasource.password=12shroot
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
